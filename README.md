@@ -1,5 +1,9 @@
 # API Autotests
 
+![Java](https://img.shields.io/badge/Java-17-blue)
+![JUnit](https://img.shields.io/badge/JUnit-5-green)
+![Allure](https://img.shields.io/badge/Allure-Reports-orange)
+
 Автотесты для веб-сервиса на Spring Boot.
 
 ## Технологии
